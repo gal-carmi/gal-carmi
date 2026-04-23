@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gal
 
-![Profile Image](./WhatsApp%20Image%202025-09-20%20at%2017.46.16.jpeg)
+
 
 ## 🧠 About Me
 I am a senior Finance Manager (FP&A) and Chief Innovation Officer (CINO) operating at the intersection of finance, data, and legal innovation.
